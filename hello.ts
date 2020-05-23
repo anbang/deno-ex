@@ -1,0 +1,1 @@
+console.log('这是阿西河自己封装的Deno库');
